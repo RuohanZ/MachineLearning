@@ -4,4 +4,4 @@
 - (b) Implement the k-fold cross-validation approach for a model
 - (c) Implement Monte Carlo Cross-validation approach with s samples.
 
-## Detailed results in hw2.pdf
+### Detailed results in hw2.pdf
