@@ -1,3 +1,1 @@
-/* THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING CODE
-WRITTEN BY OTHER STUDENTS.
-Ruohan Zhang */
+Spam Detection via Perceptron, Naive Bayes and Logistic Regression
