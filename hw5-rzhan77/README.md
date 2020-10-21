@@ -6,4 +6,4 @@
 -  Each tree is built using a bootstrap sample and random subset of the features. (rf.py)
 ## 3. Gradient Boosting
 
-### Detailed results in hw3.pdf
+### Detailed results in hw5.pdf
