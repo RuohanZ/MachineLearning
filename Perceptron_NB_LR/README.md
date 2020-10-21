@@ -7,4 +7,4 @@
 ## 2. Spam Detection via Perceptron
 ## 3. Spam Detection using Naive Bayes and Logistic Regression
 
-##Detailed results in hw4.pdf
+## Detailed results in hw4.pdf
